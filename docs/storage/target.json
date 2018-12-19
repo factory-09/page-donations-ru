@@ -1,0 +1,36 @@
+{
+	"target": {
+		"common": [
+			{
+				"title": "Поддержка сообщества UNIX",
+				"value": "[DONATION] UNIX community support"
+			},
+			{
+				"title": "Поддержка сообщества веб-мастеров",
+				"value": "[DONATION] Webmasters community support"
+			},
+			{
+				"title": "Поддержка сообщества FURRY",
+				"value": "[DONATION] FURRY community support"
+			}
+		],
+		"project": [
+			{
+				"title": "Развитие стилей и дополнений для MediaWiki",
+				"value": "[DONATION] Development of styles and additions for MediaWiki"
+			},
+			{
+				"title": "Развитие стилей и дополнений для WordPress",
+				"value": "[DONATION] Development of styles and additions for WordPress"
+			},
+			{
+				"title": "Развитие стилей и дополнений для XenForo",
+				"value": "[DONATION] Development of styles and additions for XenForo"
+			},
+			{
+				"title": "Развитие стилей и дополнений для Flarum",
+				"value": "[DONATION] Development of styles and additions for Flarum"
+			}
+		]
+	}
+}
